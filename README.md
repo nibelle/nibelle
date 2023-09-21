@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @nibelle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! My name is Nibelle
 
-<!---
-nibelle/nibelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m currently a 3rd year Biomedical Mechanical & Computer Science student. I'm very passionate about healthcare technologies and medical devices. 🩺🔬💻
+- 🦾 uOttawa Bionics Team Captain
+- 🚀 uOttawa Rocketry Payload Lead
+- 🗓 Founder & Creative Entrepreneur of @Sirabelle.co:  www.etsy.com/ca/shop/Sirabelle 
+
